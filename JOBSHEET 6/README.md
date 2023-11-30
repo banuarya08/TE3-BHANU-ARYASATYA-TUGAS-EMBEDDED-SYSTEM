@@ -33,4 +33,4 @@ MQTT (Message Queuing Telemetry Transport) adalah protokol ringan yang digunakan
 ## Flowchart
 
 ## Kesimpulan
-Kesimpulannya, praktikum ini memberikan pemahaman yang kuat tentang cara menggunakan MQTT untuk mentransmisikan data antara perangkat yang terhubung ke jaringan. MQTT adalah alat yang sangat berguna untuk pengembangan aplikasi IoT dan pemantauan jarak jauh, dan pemahaman tentang konsep MQTT sangat berharga dalam konteks ini.
+Dari praktikum ini, didapat pemahaman yang kokoh mengenai penerapan MQTT untuk mengirimkan data antar perangkat yang terhubung dalam jaringan. MQTT terbukti menjadi alat yang vital dalam pengembangan aplikasi IoT serta memfasilitasi pemantauan dari jarak jauh. Memiliki pemahaman yang kuat terhadap konsep MQTT sangatlah bernilai dalam konteks ini, karena menjadi fondasi yang penting dalam mengelola transmisi data yang efisien dan handal di lingkungan jaringan yang kompleks. Dengan pemahaman mendalam mengenai MQTT, praktikum ini memberikan dasar yang kokoh bagi pengembangan solusi-solusi aplikatif dalam domain IoT dan pemantauan jarak jauh.
