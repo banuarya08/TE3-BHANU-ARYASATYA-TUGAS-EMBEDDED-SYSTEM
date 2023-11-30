@@ -113,4 +113,4 @@ https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/1449
 
 ## 4. Kesimpulan
 
-Percobaan dasar pemrograman ESP32 untuk pemrosesan data input/output analog dan digital memungkinkan kontrol fleksibel terhadap perangkat dengan hasil simpulan bahwa ESP32 dapat mengelola data analog dan digital dengan baik, memberikan dasar pemahaman tentang bahasa pemrograman, dan menunjukkan keterhubungan yang baik dengan berbagai perangkat input/output.
+Pada praktikum pemrograman dasar ESP32 yang melibatkan kontrol sinyal analog dan digital, dapat disimpulkan bahwa ESP32 mampu dengan baik dalam mengelola data dari kedua jenis sinyal tersebut. Eksperimen ini memberikan pemahaman dasar tentang bahasa pemrograman yang digunakan pada ESP32 dan menegaskan bahwa perangkat ini memiliki kemampuan untuk terhubung dengan berbagai perangkat input/output dengan baik. Dengan demikian, ESP32 memberikan fleksibilitas dalam mengontrol dan mengelola perangkat secara efisien sesuai dengan kebutuhan pengguna.
