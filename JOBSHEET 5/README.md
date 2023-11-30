@@ -27,4 +27,4 @@ Node-RED adalah alat pemrograman berbasis grafis untuk menyatukan perangkat kera
 ## 4. pembahasan
 
 ## 5. Kesimpulan
-Kesimpulannya, praktikum ini memberikan pemahaman dasar tentang penggunaan Node-RED untuk mengembangkan aliran kerja otomatisasi dan pengolahan data dengan pendekatan visual. Ini adalah alat yang sangat berguna untuk pengembangan IoT, otomatisasi rumah, dan berbagai aplikasi lain yang melibatkan aliran data dan interaksi antara perangkat dan layanan.
+Hasil dari praktikum ini menghadirkan landasan pemahaman yang mendasar tentang pemanfaatan Node-RED dalam membentuk alur kerja otomatisasi dan manipulasi data secara visual. Platform ini menjadi instrumen yang sangat efektif dalam pengembangan aplikasi IoT, otomatisasi rumah, dan beragam aplikasi lain yang membutuhkan pengaturan aliran data serta interaksi antara berbagai perangkat dan layanan. Dengan antarmuka visual yang mudah dipahami, Node-RED memfasilitasi proses pengembangan tanpa memerlukan pengetahuan pemrograman yang mendalam, menjadikannya solusi yang tangkas dan adaptif untuk berbagai kebutuhan pengembangan aplikasi berbasis IoT.
