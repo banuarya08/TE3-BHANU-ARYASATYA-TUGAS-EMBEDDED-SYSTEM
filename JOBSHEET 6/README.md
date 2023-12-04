@@ -30,8 +30,6 @@ MQTT (Message Queuing Telemetry Transport) adalah protokol ringan yang digunakan
 
 ![hasil 6 tugas b](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/3b127182-f0c8-428b-91e6-8f10eea52f9b)
 
-## Flowchart
-
 ## Penjelasan singkat
 Dalam praktikum Node-RED, koneksi ke broker MQTT (Message Queuing Telemetry Transport) memungkinkan perangkat dan sistem berkomunikasi secara efisien melalui protokol MQTT. Node-RED menyediakan opsi keamanan, seperti penggunaan protokol TLS/SSL, untuk memastikan keamanan komunikasi antara Node-RED dan broker MQTT. Dalam praktikum menerima data JSON melalui protokol MQTT pada pemrograman Node-RED, akan mengonfigurasi Node-RED untuk berlangganan  ke topik MQTT yang mengirimkan data dalam format JSON. Praktikum ini memberikan pengalaman praktis dalam mengimplementasikan aliran kerja (workflow) yang menerima dan memproses data JSON melalui protokol MQTT menggunakan Node-RED. Dalam praktikum mengirim dummy data untuk simulasi I/O menggunakan hardware pada pemrograman Node-RED, Anda akan menggunakan node simulasi atau dummy untuk menghasilkan data yang seolah-olah berasal dari perangkat keras atau input/output (I/O) sebenarnya. Praktikum ini menjelaskan Ketika  dalam simulasi I/O menggunakan hardware pada Node-RED, memungkinkan pengguna untuk mengembangkan dan menguji logika pemrograman tanpa perlu mengakses perangkat keras sebenarnya.
 
