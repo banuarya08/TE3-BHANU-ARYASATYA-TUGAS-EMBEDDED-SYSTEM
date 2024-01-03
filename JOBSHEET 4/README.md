@@ -10,6 +10,7 @@ Sub - job pada jobsheet ini, antara lain :
 5. Pertanyaan dan Tugas
 
 Flowchart 
+
 ![flow](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/ed0f1630-b665-4bcd-ad23-b8bcaf3bc930)
 
 ## ALat dan Bahan
@@ -21,21 +22,12 @@ Alat dan Bahan yang digunakan dalam Praktikum ini, antara lain :
 5. LED (5)
 6. Resistor 330, 1K, 10K Ohm (3)
 
-## Hasil 
-Hasil 1.1
+## Hasil A
 
-https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/36093f13-e594-4fc6-985e-247022a05586
 
-ESP Daftar SSID
-![esp daftar ssid](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/c4787d7c-f7b6-4003-abf4-b3596f4a8b42)
+https://github.com/banuarya08/TE3-BHANU-ARYASATYA-TUGAS-EMBEDDED-SYSTEM/assets/146574933/c47d1b87-6d8e-4f77-be26-12abb405f08e
 
-Hasil 1-2
 
-![hasil-1-2](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/740f839d-0e4e-46fd-9f2d-fc2449e83043)
-
-Hasil 1.3
-
-https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/a1ca9780-09f7-4cb7-9781-028393f7e1b1
 
 ## Kesimpulan
 ESP akan menampilkan kumpulan SSID WiFi yang tersedia di sekitarnya. Setelah itu, Anda diminta untuk memasukkan IP Address yang muncul di serial monitor ke dalam browser dan mengisi formulir yang disediakan dengan SSID dan Password yang sesuai. Setelah melakukan langkah-langkah tersebut, ESP akan berhasil terhubung ke jaringan WiFi yang telah dipilih, dalam hal ini, jaringan WiFi dengan SSID "alfingay". Hasil akhirnya adalah ESP akan menampilkan pesan "Connected to alingay successfully" untuk menunjukkan bahwa koneksi ke jaringan WiFi "alfingay" telah berhasil dilakukan.
@@ -49,17 +41,23 @@ ESP akan menampilkan kumpulan SSID WiFi yang tersedia di sekitarnya. Setelah itu
 
 # b. Hasil dan Pembahasan
 Pada percobaan ini, langkah pertama yang dilakukan adalah membuat database banjir_db dan diisi dengan tabel smartwater. Struktur dalam tabel mengikuti panduan jobsheet. Install terlebih dahulu node-red-dashboard pada bagian manage pallette kemudian import kode JSON Multi-Protocol IoT Server ke Node-Red untuk menampilkan flow rangkaian. Kemudian, install libraru JSON5 pada Arduino dan upload program protokol HTTP dengan metode GET. Setelah berhasil diupload, klik Deploy pada Node-Red. Hasil percobaan dapat dilihat pada Serial Monitor Arduino, Debug Node-Red, dan juga Dashboard Node-Red. Hasil akan terlihat seperti berikut.
+
 - Serial Monitor
-![serial monitor 1](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/b4c50e06-8500-43f1-b6c7-124d8048a880)
+  
+![serialmonitor](https://github.com/banuarya08/TE3-BHANU-ARYASATYA-TUGAS-EMBEDDED-SYSTEM/assets/146574933/58c6b8f1-3fc2-4f0c-b061-f17cb725802f)
 
 - Debug
-![debug stlh 1](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/1b815d00-bd25-4edc-8ac5-6609aa9b9a9b)
+  
+![debug node-red](https://github.com/banuarya08/TE3-BHANU-ARYASATYA-TUGAS-EMBEDDED-SYSTEM/assets/146574933/28bfe678-435c-41fd-a329-66d2bca0a6de)
 
 - Dashboard
-![dashboard 1](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/715d098b-aaa6-4d90-81ae-8805f9851b96)
 
-- flowchart
+![node-red dashboard](https://github.com/banuarya08/TE3-BHANU-ARYASATYA-TUGAS-EMBEDDED-SYSTEM/assets/146574933/78d847b8-80c3-4ffe-ba19-b9b6ad9df883)
+
+
 - ![flowchart d](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/7e767273-a97c-44d1-8198-27db56256c75)
+
+
 
   ## 2. Metode Post
   # a. rangkaian
@@ -68,18 +66,64 @@ Pada percobaan ini, langkah pertama yang dilakukan adalah membuat database banji
 
 # b. Hasil Pembahasan
 - serial monitor
-  
-  ![serial monitor 2](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/02f0bbd7-b2de-4559-b923-8276aa8b0375)
+
+  ![serialmonitor 2](https://github.com/banuarya08/TE3-BHANU-ARYASATYA-TUGAS-EMBEDDED-SYSTEM/assets/146574933/8b4ea9d9-cd76-484e-84fc-10f1ad164b0c)
+
 
 - debug
 
-![debug 2](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/2441c26d-bb5e-4fd3-86d1-abfeee0230b4)
+![debug node-red 2](https://github.com/banuarya08/TE3-BHANU-ARYASATYA-TUGAS-EMBEDDED-SYSTEM/assets/146574933/d77da297-a901-40bd-8365-98a46e4ca2f8)
+
 
 - dashboard
 
-
-![dashboard 2](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/dfcc69ec-6c95-41cf-b6a8-87f329e4b920)
+![node-red dashboard 2](https://github.com/banuarya08/TE3-BHANU-ARYASATYA-TUGAS-EMBEDDED-SYSTEM/assets/146574933/e512a82b-1579-425b-b18d-c5f46aacb052)
 
 - flowchart
   
 ![flowchart d](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/728d8307-173c-48c0-bad3-76d948d867d7)
+
+## 3. Transmisi Data Menggunakan Protokol MQTT
+# Hasil Percobaan
+
+- serial monitor
+  
+![serialmonitor](https://github.com/banuarya08/TE3-BHANU-ARYASATYA-TUGAS-EMBEDDED-SYSTEM/assets/146574933/d977f02e-5833-4842-a1b3-efdd0bb445d1)
+
+- debug
+  
+![debug](https://github.com/banuarya08/TE3-BHANU-ARYASATYA-TUGAS-EMBEDDED-SYSTEM/assets/146574933/4815b0f9-2dd7-4735-a1ec-669d65b53a91)
+
+- dashboard
+
+  ![dashboard](https://github.com/banuarya08/TE3-BHANU-ARYASATYA-TUGAS-EMBEDDED-SYSTEM/assets/146574933/410be49d-5efa-4870-a6d5-8ebc7816dc03)
+
+
+ ## 4.Akuisi Data Kendali Perangkat IoT Menggunakan Protokol MQTT
+ # Hasil Percobaan
+
+ - serial monitor
+   
+![serialmonitor](https://github.com/banuarya08/TE3-BHANU-ARYASATYA-TUGAS-EMBEDDED-SYSTEM/assets/146574933/5463607c-a747-400b-b305-881dfbdf3b68)
+
+ - debug
+   
+![debug](https://github.com/banuarya08/TE3-BHANU-ARYASATYA-TUGAS-EMBEDDED-SYSTEM/assets/146574933/6271674e-27fe-4c53-9c6a-be667a34c2b2)
+
+ - dashboard
+   
+![dashboard](https://github.com/banuarya08/TE3-BHANU-ARYASATYA-TUGAS-EMBEDDED-SYSTEM/assets/146574933/3f16bb04-d3ea-426e-8d33-15f3ee598f78)
+
+# Hasil Video
+
+- Adafruit
+
+https://github.com/banuarya08/TE3-BHANU-ARYASATYA-TUGAS-EMBEDDED-SYSTEM/assets/146574933/a08ec421-eae3-47df-aab1-e529c04c2722
+
+- Dashboard
+  
+
+https://github.com/banuarya08/TE3-BHANU-ARYASATYA-TUGAS-EMBEDDED-SYSTEM/assets/146574933/cd2a31e6-a8b6-4568-a325-9d8fcea335dd
+
+
+
